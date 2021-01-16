@@ -14,7 +14,5 @@ A C++ SFML Sample. Displays a green circle in the center of the screen.
 
 Distributed under the MIT License. See 
 
-[`LICENSE`]: ./LICENSE.md
-
- for more information.
+[`LICENSE`]: ./LICENSE.md for more information.
 
